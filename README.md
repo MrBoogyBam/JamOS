@@ -1,3 +1,3 @@
 # JamOS
 
-The best linus distribution you've ever seen.
+The best linux distribution you've ever seen.
